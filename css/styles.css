@@ -1,0 +1,47 @@
+/*TAG Selector*/
+body{
+  background-color: #F5EFE6;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #7882A4;
+  border-width: 5;
+  width: 10%;
+}
+
+img {
+  height: 200;
+}
+
+h1 {
+  color: #4C0033;
+
+}
+
+h3 {
+  color: #790252;
+}
+
+h4 {
+  color: #790252;
+}
+/*Class Selector*/
+.brief {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.mypic{
+  border-radius: 100%;
+}
+
+
+/*ID Selector*/
+#Publications{
+  color: green;
+}
+
+/*Sudo class*/
+img:hover{
+  border-radius: 0%;
+}
